@@ -5,7 +5,7 @@ categories:
 - UCD_CodeClub
 date: "2019-10-08T01:00:00Z"
 draft: false
-featured: false
+featured: true
 image:
   caption: '[*Image from r4ds.had.co.nz/data-visualisation*](https://r4ds.had.co.nz/data-visualisation.html)'
   focal_point: ""
@@ -18,6 +18,7 @@ summary: Learn the basics of R
 tags:
 - R
 - RStudio
+- UCD_CodeClub
 title: 'Introduction to R'
 ---
 

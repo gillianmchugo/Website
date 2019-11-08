@@ -5,7 +5,7 @@ categories:
 - UCD_CodeClub
 date: "2019-10-08T02:00:00Z"
 draft: false
-featured: false
+featured: true
 image:
   caption: 'HackMD'
   focal_point: ""
@@ -19,6 +19,7 @@ tags:
 - Markdown
 - HackMD
 - R
+- UCD_CodeClub
 title: 'Markdown Basics'
 ---
 
@@ -51,6 +52,7 @@ and [links.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 1. be ***combined***
    - in [**many**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ways.
    
+
 The above text is produced using:  
 `The basics include plain text, *italic* or **bold** text,`  
 

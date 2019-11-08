@@ -5,7 +5,7 @@ categories:
 - Research
 date: "2019-10-08T03:00:00Z"
 draft: false
-featured: false
+featured: true
 image:
   caption: 'Preview of Figures'
   focal_point: ""

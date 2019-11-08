@@ -18,6 +18,7 @@ summary: Learn how to install R and RStudio
 tags:
 - R
 - RStudio
+- UCD_CodeClub
 title: 'Installing R and RStudio'
 ---
 
