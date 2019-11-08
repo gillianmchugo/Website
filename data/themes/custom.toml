@@ -1,0 +1,26 @@
+# Theme metadata
+name = "custom"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#3aafa9"
+primary_light = "#def2f1"
+primary_dark = "#2b7a78"
+
+# Menu
+menu_primary = "#3aafa9"
+menu_text = "#def2f1"
+menu_text_active = "#2b7a78"
+menu_title = "#def2f1"
+
+# Backgrounds
+background = "#feffff"
+home_section_odd = "#def2f1"
+home_section_even = "#feffff"
+
+#https://carto.com/carto-colors/ teal
+#d1eeea,#a8dbd9,#85c4c9,#68abb8,#4f90a6,#3b738f,#2a5674
+
+#https://visme.co/blog/website-color-schemes/
