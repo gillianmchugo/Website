@@ -26,9 +26,13 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
+    name = "GitHub"
+    tag = "GitHub"
+
+  [[content.filter_button]]
     name = "R"
     tag = "R"
-
+    
   [[content.filter_button]]
     name = "UCD_CodeClub"
     tag = "UCD_CodeClub"
