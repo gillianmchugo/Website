@@ -2,8 +2,8 @@
 abstract: The Galway sheep population is the only native Irish sheep breed and this livestock genetic resource is currently categorised as “at-risk”. In the present study, comparative population genomics analyses of Galway sheep and other sheep populations of European origin were used to investigate the microevolution and recent genetic history of the breed. These analyses support the hypothesis that British Leicester sheep were used in the formation of the Galway. When compared to conventional and endangered breeds, the Galway breed was intermediate in effective population size, genomic inbreeding and runs of homozygosity. This indicates that, although the Galway breed is declining, it is still relatively genetically diverse and that conservation and management plans informed by genomic information may aid its recovery. The Galway breed also exhibited distinct genomic signatures of artificial or natural selection when compared to other breeds, which highlighted candidate genes that may be involved in production and health traits.
 authors:
 - Gillian P. McHugo
-- Samuel S. Browett
-- Imtiaz A. Randhawa
+- Sam Browett
+- Imtiaz A. S. Randhawa
 - Dawn J. Howard
 - Michael P. Mullen
 - Ian W. Richardson 
