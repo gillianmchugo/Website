@@ -60,4 +60,7 @@ url_source: ""
 url_video: ""
 ---
 
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.3389%2Ffgene.2019.00927" data-popup="right" data-size="medium" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">A Population Genomics Analysis of the Native Irish Galway Sheep Breed.</a>
+<span class="__dimensions_badge_embed__" data-id="pub.1121551958" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-popover="right" class="altmetric-embed" data-badge-type="donut" data-altmetric-id="65964326" />

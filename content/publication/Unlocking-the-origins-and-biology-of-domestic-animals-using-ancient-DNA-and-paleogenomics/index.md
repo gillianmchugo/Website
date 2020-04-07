@@ -51,4 +51,7 @@ url_source: ""
 url_video: ""
 ---
 
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.1186%2Fs12915-019-0724-7" data-popup="right" data-size="medium" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Unlocking the origins and biology of domestic animals using ancient DNA and paleogenomics.</a>
+<span class="__dimensions_badge_embed__" data-id="pub.1123061546" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-popover="right" class="altmetric-embed" data-badge-type="donut" data-altmetric-id="71813462" />
