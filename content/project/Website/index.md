@@ -1,6 +1,6 @@
 ---
 date: "2019-11-08T00:00:00Z"
-external_link: https://github.com/gillianmchugo/Website
+external_link: https://github.com/GillianMcHugo/Website
 image: 
   caption: 
   focal_point: Smart

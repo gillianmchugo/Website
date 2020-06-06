@@ -1,6 +1,6 @@
 ---
 date: "2019-11-08T00:00:00Z"
-external_link: https://github.com/gillianmchugo/UCD_CodeClub_website
+external_link: https://github.com/GillianMcHugo/UCD_CodeClub_website
 image: 
   caption: 
   focal_point: Smart
