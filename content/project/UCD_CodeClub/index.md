@@ -6,8 +6,11 @@ image:
   focal_point: Smart
 summary: A bioinformatics group for PhD students at UCD
 tags:
-- UCD_CodeClub
+- Featured
 - R
-- Website
+- R Markdown
+- UCD_CodeClub
 title: UCD_CodeClub
 ---
+
+A bioinformatics group for PhD students at UCD.

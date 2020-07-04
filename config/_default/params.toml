@@ -80,20 +80,21 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope-square", icon_pack = "fas", name = "gillian.mc-hugo@ucdconnect.ie", link = "mailto:gillian.mc-hugo@ucdconnect.ie"},
-  {icon = "twitter-square", icon_pack = "fab", name = "@GillianMcHugo", link = "https://twitter.com/GillianMcHugo"},
-  {icon = "github-square", icon_pack = "fab", name = "github.com/GillianMcHugo", link = "https://github.com/GillianMcHugo"},
-  {icon = "linkedin", icon_pack = "fab", name = "linkedin.com/in/GillianMcHugo", link = "https://www.linkedin.com/in/GillianMcHugo"},
-  {icon = "researchgate-square", icon_pack = "ai", name = "researchgate.net/profile/Gillian_McHugo", link = "https://www.researchgate.net/profile/Gillian_McHugo"},
-  {icon = "orcid-square", icon_pack = "ai", name = "orcid.org/0000-0001-6920-0041", link = "https://orcid.org/0000-0001-6920-0041"},
-  {icon = "impactstory-square", icon_pack = "ai", name = "impactstory.org/u/0000-0001-6920-0041", link = "https://profiles.impactstory.org/u/0000-0001-6920-0041"},
-  {icon = "google-scholar-square", icon_pack = "ai", name = "scholar.google.com/citations?user=4mpdqz4AAAAJ", link = "https://scholar.google.com/citations?user=4mpdqz4AAAAJ"},
-  {icon = "mendeley-square", icon_pack = "ai", name = "mendeley.com/profiles/Gillian-McHugo", link = "https://www.mendeley.com/profiles/Gillian-McHugo"},
-  {icon = "publons-square", icon_pack = "ai", name = "publons.com/researcher/3669688/Gillian-McHugo", link = "https://publons.com/researcher/3669688/Gillian-McHugo"},
-  {icon = "academia-square", icon_pack = "ai", name = "ucd.academia.edu/GillianMcHugo", link = "https://ucd.academia.edu/GillianMcHugo"},
-  {icon = "semantic-scholar-square", icon_pack = "ai", name = "semanticscholar.org/author/39875099", link = "https://www.semanticscholar.org/author/39875099"},
-  {icon = "external-link-square-alt", icon_pack = "fas", name = "scopus.com/authid/detail.uri?authorId=57200816616", link = "https://www.scopus.com/authid/detail.uri?authorId=57200816616"},
-  {icon = "external-link-square-alt", icon_pack = "fas", name = "loop.frontiersin.org/people/491915", link = "https://loop.frontiersin.org/people/491915"}
+  #{icon = "envelope-square", icon_pack = "fas", name = "gillian.mc-hugo@ucdconnect.ie", link = "mailto:gillian.mc-hugo@ucdconnect.ie"},
+  #{icon = "twitter-square", icon_pack = "fab", name = "@GillianMcHugo", link = "https://twitter.com/GillianMcHugo"},
+  #{icon = "github-square", icon_pack = "fab", name = "GitHub", link = "https://github.com/GillianMcHugo"},
+  #{icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/GillianMcHugo"},
+  #{icon = "researchgate-square", icon_pack = "ai", name = "ResearchGate", link = "https://www.researchgate.net/profile/Gillian_McHugo"},
+  #{icon = "orcid-square", icon_pack = "ai", name = "ORCID", link = "https://orcid.org/0000-0001-6920-0041"},
+  #{icon = "google-scholar-square", icon_pack = "ai", name = "Google Scholar", link = "https://scholar.google.com/citations?user=4mpdqz4AAAAJ"},
+  #{icon = "publons-square", icon_pack = "ai", name = "Publons", link = "https://publons.com/researcher/3669688/Gillian-McHugo"},
+  #{icon = "semantic-scholar-square", icon_pack = "ai", name = "SemanticScholar", link = "https://www.semanticscholar.org/author/39875099"},
+  #{icon = "mendeley-square", icon_pack = "ai", name = "Mendeley", link = "https://www.mendeley.com/profiles/Gillian-McHugo"},
+  #{icon = "academia-square", icon_pack = "ai", name = "Academia.edu", link = "https://ucd.academia.edu/GillianMcHugo"},
+  #{icon = "figshare-square", icon_pack = "ai", name = "Figshare", link = "https://figshare.com/authors/Gillian_McHugo/8965919"},
+  #{icon = "impactstory-square", icon_pack = "ai", name = "Impactstory", link = "https://profiles.impactstory.org/u/0000-0001-6920-0041"},
+  #{icon = "external-link-square-alt", icon_pack = "fas", name = "Scopus", link = "https://www.scopus.com/authid/detail.uri?authorId=57200816616"},
+  #{icon = "external-link-square-alt", icon_pack = "fas", name = "Loop", link = "https://loop.frontiersin.org/people/491915"}
   ]
 
 # Display a map.

@@ -11,6 +11,9 @@
   </p>
   {{ end }}
 
+<script defer src="/static/fontawesome/fontawesome-all.js"></script>
+<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
+
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 

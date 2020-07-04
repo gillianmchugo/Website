@@ -19,11 +19,15 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
 
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  filter_default = 1
 
   [[content.filter_button]]
     name = "All"
     tag = "*"
+
+  [[content.filter_button]]
+    name = "Featured"
+    tag = "Featured"
 
   [[content.filter_button]]
     name = "GitHub"
@@ -33,13 +37,6 @@ subtitle = ""
     name = "R"
     tag = "R"
     
-  [[content.filter_button]]
-    name = "UCD_CodeClub"
-    tag = "UCD_CodeClub"
-
-  [[content.filter_button]]
-    name = "Website"
-    tag = "Website"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
