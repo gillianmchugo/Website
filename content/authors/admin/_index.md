@@ -8,7 +8,7 @@ interests:
 name: Gillian P. McHugo
 organizations:
 - name: University College Dublin, Ireland
-  url: ""
+  url: "https://www.ucd.ie"
 role: PhD Student
 social:
 - icon: envelope-square
@@ -38,20 +38,21 @@ user_groups: []
 
 ## About me
 I am a PhD student at University College Dublin, working with [Professor David E. MacHugh](https://people.ucd.ie/david.machugh "people.ucd.ie/david.machugh") and 
-[Professor Stephen V. Gordon](https://people.ucd.ie/stephen.gordon "people.ucd.ie/stephen.gordon"). 
+[Professor Stephen V. Gordon.](https://people.ucd.ie/stephen.gordon "people.ucd.ie/stephen.gordon") 
 I am currently studying integrative genomics of infectious diseases in cattle, focusing on trypanosomiasis in hybrid African cattle and bovine tuberculosis in Irish cattle.
 
 
 ## Education
-* PhD in Infection Biology, University College Dublin, 2018 - present
 
-* MSc in Evolutionary Biology, University College Dublin, 2015 - 2016  
+<a href="https://www.ucd.ie" title="ucd.ie" target="_blank"><img style="float: left;" src="/img/UCD.png" width="30" height="100"" hspace="10" vspace="10"></a> PhD in Infection Biology, University College Dublin, 2018 - present  
+<br> 
+<a href="https://www.ucd.ie" title="ucd.ie" target="_blank"><img style="float: left;" src="/img/UCD.png" width="30" height="100"" hspace="10" vspace="10""></a> MSc in Evolutionary Biology, University College Dublin, 2015 - 2016  
 [Thesis:]({{< ref "/publication/A-population-genomic-analysis-of-the-endangered-Galway-sheep-breed-thesis/index.md" >}} "See thesis") A population genomic analysis of the 
 endangered Galway sheep breed, supervised by 
 [Professor David E. MacHugh](https://people.ucd.ie/david.machugh "people.ucd.ie/david.machugh") and published in 
 [Frontiers in Genetics.]({{< ref "/publication/A-population-genomics-analysis-of-the-native-Irish-Galway-sheep-breed/index.md" >}} "See publication")
 
-* BA (Hons) in Natural Sciences (Zoology), Trinity College Dublin, 2011 - 2015  
+<a href="https://www.tcd.ie" title="tcd.ie" target="_blank"><img style="float: left;" src="/img/TCD.gif" width="30" height="100"" hspace="10" vspace="10"></a> BA (Hons) in Natural Sciences (Zoology), Trinity College Dublin, 2011 - 2015  
 [Thesis:]({{< ref "/publication/Mytilus-edulis-histopathology-as-a-bioindicator-of-water-pollution/index.md" >}} "See thesis") *Mytilus edulis* as a
 bioindicator of water pollution: potential histopathology biomarkers in Dublin Bay and Newquay, Co. Clare, supervised by 
 [Professor James G. Wilson.](https://www.tcd.ie/research/profiles/?profile=jwilson "tcd.ie/research/profiles/?profile=jwilson") 

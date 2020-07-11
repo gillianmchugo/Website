@@ -7,7 +7,7 @@ authors:
 - David E. MacHugh
 date: "2019-04-04T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
   caption: 'Preview of Figures'
   focal_point: "left"

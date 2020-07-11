@@ -46,4 +46,4 @@ Adapted from [notes](https://hackmd.io/vZBi_mgVRrqFZRPIKFctAA "See notes") I pre
 5. Open RStudio
 ![](https://i.imgur.com/Rt9vCRn.jpg)
 
-## Now get started with the [basics of R]({{< ref "/post/introduction-to-r/index.md" >}} "See guide")
+## Now get started with the [basics of R.]({{< ref "/post/introduction-to-r/index.md" >}} "See guide")
